@@ -1,19 +1,19 @@
 ﻿class programas
 {
-    public static void typetriangle()
+    public static void Typetriangle()
     {
 
         Console.Clear();
 
         Console.WriteLine(@"
                   
-                  Bienvenido al programa para determinar el 
-                   tipo de triángulo en función de sus lados 
-                            ____
-                           ||""||
-                           ||__||
-                           [ -=.]
-                           ====== 0
+                 Bienvenido al programa para determinar el tipo 
+                      de triángulo en función de sus lados 
+                                    ____
+                                   ||""||
+                                   ||__||
+                                   [ -=.]
+                                   ====== 0
                   ");
 
         var lado1 = function.Conversor("Por favor introduzca el lado 1: ");
@@ -82,7 +82,7 @@
         function.Salir();
 
     }
-    public static void tablaMultiplicar()
+    public static void TablaMultiplicar()
     {
         Console.Clear();
 
@@ -108,7 +108,7 @@
         function.Salir();
 
     }
-    public static void cuadrado()
+    public static void Cuadrado()
     {
         Console.Clear();
 

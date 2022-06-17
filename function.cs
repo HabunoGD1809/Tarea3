@@ -16,7 +16,7 @@ class function
                   }
                     return num;
          }
-
+         
         public static void Salir(){
                     Console.WriteLine($"{Environment.NewLine}Pulse cualquier tecla para volver al menu principal");
                     Console.ReadKey();

@@ -37,17 +37,17 @@ while (continuar == false)
          switch (opcion)
          {
                   case 1:
-                           programas.typetriangle();
+                           programas.Typetriangle();
                            break;
                   case 2:
                            programas.TipoDeTriangulo();
                            break;
                   case 3:
-                           programas.cuadrado();
+                           programas.Cuadrado();
                            break;
                   case 4:
-                           programas.tablaMultiplicar();
-            break;
+                           programas.TablaMultiplicar();
+                           break;
                   case 5:
                            //json.response();
                            break;
