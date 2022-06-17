@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Tarea3/1.0.0": {
+      "Tarea4/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
-          "Tarea3.dll": {}
+          "Tarea4.dll": {}
         }
       },
       "Newtonsoft.Json/13.0.1": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "Tarea3/1.0.0": {
+    "Tarea4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

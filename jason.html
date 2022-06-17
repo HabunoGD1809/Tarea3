@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using Newtonsoft.Json;
+
+public class json{
+    public static void response(){
+        
+        var client = new HttpClient();
+        string jsonResponse = await client.GetStringAsync("https://randomuser.me/api/?results=10");
+
+        var rs = JsonConvert.DeserializeObject<resultado>(jsonResponse);
+
+        foreach (var post in rs.results)
+        {
+            Console.WriteLine(post.email);
+        }
+
+        function.Salir();
+    }
+}
+

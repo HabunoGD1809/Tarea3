@@ -1,0 +1,51 @@
+C:\Users\HabonoXboX\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.exe
+C:\Users\HabonoXboX\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.deps.json
+C:\Users\HabonoXboX\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.runtimeconfig.json
+C:\Users\HabonoXboX\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.dll
+C:\Users\HabonoXboX\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.pdb
+C:\Users\HabonoXboX\Desktop\Tarea4\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.csproj.AssemblyReference.cache
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.AssemblyInfoInputs.cache
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.AssemblyInfo.cs
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.csproj.CopyComplete
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.dll
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\refint\Tarea4.dll
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.pdb
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.genruntimeconfig.cache
+C:\Users\HabonoXboX\Desktop\Tarea4\obj\Debug\net6.0\ref\Tarea4.dll
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.csproj.AssemblyReference.cache
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.AssemblyInfoInputs.cache
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.AssemblyInfo.cs
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.dll
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\refint\Tarea4.dll
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.pdb
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.exe
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.deps.json
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.runtimeconfig.json
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.dll
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\bin\Debug\net6.0\Tarea4.pdb
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.csproj.CopyComplete
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\Tarea4.genruntimeconfig.cache
+C:\Users\Antoine y Yolanda\Desktop\Tarea4\obj\Debug\net6.0\ref\Tarea4.dll
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\bin\Debug\net6.0\Tarea4.exe
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\bin\Debug\net6.0\Tarea4.deps.json
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\bin\Debug\net6.0\Tarea4.runtimeconfig.json
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\bin\Debug\net6.0\Tarea4.dll
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\bin\Debug\net6.0\Tarea4.pdb
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.csproj.AssemblyReference.cache
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.AssemblyInfoInputs.cache
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.AssemblyInfo.cs
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.csproj.CopyComplete
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.dll
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\refint\Tarea4.dll
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.pdb
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\Tarea4.genruntimeconfig.cache
+C:\Users\HabonoXboX\Desktop\Nueva carpeta\Tarea4\obj\Debug\net6.0\ref\Tarea4.dll

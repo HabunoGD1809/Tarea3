@@ -6,44 +6,30 @@ while (continuar == false)
         Console.Clear();
 
         Console.WriteLine(@"
-         ╔══╗                   ╔╗
-         ║╔╗║                   ║║
-         ║╚╝╚╦╦══╦═╗╔╗╔╦══╦═╗╔╦═╝╠══╗
-         ║╔═╗╠╣║═╣╔╗╣╚╝║║═╣╔╗╬╣╔╗║╔╗║
-         ║╚═╝║║║═╣║║╠╗╔╣║═╣║║║║╚╝║╚╝║  
-         ╚═══╩╩══╩╝╚╝╚╝╚══╩╝╚╩╩══╩══╝
+                            ╔══╗                   ╔╗
+                            ║╔╗║                   ║║
+                            ║╚╝╚╦╦══╦═╗╔╗╔╦══╦═╗╔╦═╝╠══╗
+                            ║╔═╗╠╣║═╣╔╗╣╚╝║║═╣╔╗╬╣╔╗║╔╗║
+                            ║╚═╝║║║═╣║║╠╗╔╣║═╣║║║║╚╝║╚╝║  
+                            ╚═══╩╩══╩╝╚╝╚╝╚══╩╝╚╩╩══╩══╝
           
-                  \_______/
-              `.,-'\_____/`-.,'
-               /`..'\ _ /`.,'\
-              /  /`.,' `.,'\  \
-             /__/__/     \__\__\__
-             \  \  \     /  /  /
-              \  \,'`._,'`./  /
-               \,'`./___\,'`./
-              ,'`-./_____\,-'`.
-                  /       \
+             ______            ______            ______
+            /\_____\          /\_____\          /\_____\          ____
+           _\ \__/_/_         \ \__/_/_         \ \__/_/         /\___\
+          /\_\ \_____\        /\ \_____\        /\ \___\        /\ \___\
+          \ \ \/ / / /        \ \/ / / /        \ \/ / /        \ \/ / /
+           \ \/ /\/ /          \/_/\/ /          \/_/_/          \/_/_/
+            \/_/\/_/              \/_/
 
-            Elija la opción deseada
+                              Elija la opción deseada
 
-         1. Multiplicar 2 numeros
-         2. Promedio de dos numeros
-         3. Encontrar la hipotenusa de un triangulo
-         4. Encontrar el cateto opuesto de un triangulo
-         5. Encontrar el area de un triangulo
-         6. Calcular ecuacion cuadratica
-         7. Cantidad de caracteres de una cadena
-         8. Viaje en metro
-         9. Calculador de hamburgesas
-         10. Conversor a dolares
-         11. Numero y mostrar: la mitad, el cuadrado, el doble
-         12. Calculo de energía
-         13. Calcula tu edad
-         14. Calcula la temperatura
-         15. Calculadora de gasto de combustible
-         16. Video
-         17. Acerca de mi
-         18. Salir
+         1. Determinar si el triangulo es: Equilatero, Isósceles o Escaleno
+         2. Determinar si el triangulo es: Rectángulo, Acutángulo u Obtusángulo
+         3. Ingrese las medidas para determinar si la figura es un cuadrado 
+         4. Tabla de multiplicar de un numero. 
+         5. Ingresa un numero y veras :D
+         6. Acerca de mi
+         7. Salir
          ");
 
          int.TryParse(Console.ReadLine(), out opcion);
@@ -51,57 +37,24 @@ while (continuar == false)
          switch (opcion)
          {
                   case 1:
-                           programas.multiplicador();
+                           programas.typetriangle();
                            break;
                   case 2:
-                           programas.promedio();
+                           programas.TipoDeTriangulo();
                            break;
                   case 3:
-                           programas.hipotenusa();
+                           programas.cuadrado();
                            break;
                   case 4:
-                           programas.catetOpuesto();
-                           break;   
+                           programas.tablaMultiplicar();
+            break;
                   case 5:
-                           programas.areaTriangulo();   
+                           //json.response();
                            break;
                   case 6:
-                           programas.ecuacionCuadratica();
-                           break;
-                  case 7:
-                           programas.cantidadCaracteres();
-                           break;
-                  case 8:
-                           programas.viajeMetro();
-                           break;
-                  case 9:
-                           programas.hamburgesas();
-                           break;
-                  case 10:
-                           programas.conversorDolares();
-                           break;
-                  case 11:
-                           programas.mitadCuadroDoble();
-                           break;
-                  case 12:
-                           programas.calculoEnergia();
-                           break;
-                  case 13:
-                           programas.calculoEdad();
-                           break;
-                  case 14:
-                           programas.calculoTemperatura();
-                           break;
-                  case 15:
-                           programas.calculoCombustible();
-                           break;
-                  case 16:
-                           programas.videoExplicativo();
-                           break;
-                  case 17:
                            acercame.acerca();
                            break;
-                  case 18:
+                  case 7:
                            Console.Clear();
                            Console.WriteLine(@"
             Hasta la proxima");

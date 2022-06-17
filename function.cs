@@ -1,7 +1,9 @@
 class function
 {
         public static double Conversor(string mensaje){
-                  double num = 0; 
+                  double num = 0;
+
+        Math.ReciprocalSqrtEstimate(6);
                   
                   try
                   {
